@@ -201,8 +201,7 @@ h5{
 .mob1 p {
   background-color: darkgreen;
   border-radius: 50px;
-  color: white;
-  gap:200px
+  color: white ;
 }
 .mob2{color: #003cff;
 }
